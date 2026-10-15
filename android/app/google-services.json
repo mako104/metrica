@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159400586835",
+    "project_id": "metrica-9a15c",
+    "storage_bucket": "metrica-9a15c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159400586835:android:654276303f5830b059a0a6",
+        "android_client_info": {
+          "package_name": "com.example.metrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFzdYao5bsTSZ_pemX8lCDGQF5zhTfJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
